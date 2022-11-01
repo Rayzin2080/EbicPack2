@@ -1,3 +1,6 @@
 botania
 Biome mod (not biomes-o-plenty)
 twilight
+ReAuth
+https://www.curseforge.com/minecraft/mc-mods/macaws-bridges
+https://www.curseforge.com/minecraft/mc-mods/tinkers-rapier
